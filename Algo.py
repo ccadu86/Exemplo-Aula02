@@ -9,7 +9,6 @@ def main():
                     cir = Circulo(int(input("Informe o raio > ")))
                     print(cir.calc_area())
 
-
             elif menu == 2:
                 cir = Circulo(int(input("Informe o raio > ")))
                 print(cir.calc_circo())
